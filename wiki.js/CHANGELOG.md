@@ -1,5 +1,38 @@
 # Changelog
 
+## 3.1.1-dev-2937a63 (2026-01-06)
+
+### 🐛 Bug Fixes
+- rename README.MD to README.md and prevent run.sh startup crashes ([`4fc77546`](https://github.com/FaserF/hassio-addons/commit/4fc775469d5aec6dd85ac55e71ffff56388b7228))
+
+### 📦 Dependencies
+- 🚀 release(wiki.js): version bump [skip-tests] ([`2937a63b`](https://github.com/FaserF/hassio-addons/commit/2937a63b791bbbc9a6296ef3a8bccffe3ca71b65))
+- Renovate improvements ([`18169471`](https://github.com/FaserF/hassio-addons/commit/1816947131999e6b0abb234aa330fffe42171d5b))
+- 📝 release(wiki.js): update changelog [skip-tests] ([`32439766`](https://github.com/FaserF/hassio-addons/commit/324397663f6e7fbfd013c5a3f0d5445e933bae8c))
+- 📝 release(wiki.js): update changelog [skip-tests] ([`9709194b`](https://github.com/FaserF/hassio-addons/commit/9709194bad1a29590f3cccb947e71b9dc35284c3))
+- Bump all addon versions ([`7a5426ba`](https://github.com/FaserF/hassio-addons/commit/7a5426bac78e1dbbbf0de477757cbe4562594434))
+
+### 📝 Documentation
+- improved READMEs ([`083b3025`](https://github.com/FaserF/hassio-addons/commit/083b30254f65656f616671ec8aa6649cbe085b8e))
+
+### 🎨 Style
+- auto-fix (shfmt,black,isort,prettier,markdownlint) ([`e870d4e5`](https://github.com/FaserF/hassio-addons/commit/e870d4e56a174e37a240046f85efebff8ed4ed3e))
+- auto-fix (shfmt,black,isort,prettier,markdownlint) ([`396a11c7`](https://github.com/FaserF/hassio-addons/commit/396a11c76679d079d29134d5d8c0f94bf9446b42))
+- auto-fix (shfmt,black,isort,prettier,markdownlint) ([`bfd1ae67`](https://github.com/FaserF/hassio-addons/commit/bfd1ae6710949be9eeba082897c769a655e02707))
+
+### 🚀 Other
+- more CI fixes ([`ee2d55fe`](https://github.com/FaserF/hassio-addons/commit/ee2d55fe409ee33f9f01450827adeeeafbc54956))
+- more CI & addon fixes ([`9cbf6c0b`](https://github.com/FaserF/hassio-addons/commit/9cbf6c0be6b86bbbb7f673991cc995c5d06c358d))
+- CI fixes ([`c455d4be`](https://github.com/FaserF/hassio-addons/commit/c455d4be27532d8b2734ef087b11d4aedfaba826))
+- fix ShieldFile Start & Addons Version Banner ([`62e9b6c3`](https://github.com/FaserF/hassio-addons/commit/62e9b6c3e86a061bf45302838b8846441098245c))
+- small fixes ([`9e56b831`](https://github.com/FaserF/hassio-addons/commit/9e56b8317d07945c10621348570563212feab56f))
+- small fix ([`4de506d9`](https://github.com/FaserF/hassio-addons/commit/4de506d97842d06151ae7fbb437d62669a70eb48))
+- New addon: WikiJS V3 (#530) [skip-tests] ([`7e759ba2`](https://github.com/FaserF/hassio-addons/commit/7e759ba20fc5c1e0d9a20881f9cd383aed911ee0))
+- Watchdog fixes ([`defec20c`](https://github.com/FaserF/hassio-addons/commit/defec20cc30e2499935f8946abd6d0dd8a4928e0))
+- Docs improvements ([`9ba3343c`](https://github.com/FaserF/hassio-addons/commit/9ba3343c174fc850b55a9d73117eb57476b9d5cb))
+- small addon fixes ([`f3f3e0f5`](https://github.com/FaserF/hassio-addons/commit/f3f3e0f56b1c3fb6e8a44e396592b6177dd9c769))
+
+
 ## 3.1.0 (2026-01-06)
 
 ### 📦 Dependencies

@@ -1,5 +1,38 @@
 # Changelog
 
+## 2.1.1-dev-2d29279 (2026-01-06)
+
+### 🐛 Bug Fixes
+- rename README.MD to README.md and prevent run.sh startup crashes ([`4fc77546`](https://github.com/FaserF/hassio-addons/commit/4fc775469d5aec6dd85ac55e71ffff56388b7228))
+
+### 📦 Dependencies
+- 🚀 release(tado_aa): version bump [skip-tests] ([`2d29279c`](https://github.com/FaserF/hassio-addons/commit/2d29279c0a0893a999ed088cec5e6fb7b9c05511))
+- 📝 release(tado_aa): update changelog [skip-tests] ([`1601e958`](https://github.com/FaserF/hassio-addons/commit/1601e958695184423d7bbf85db62a0f6b0446cfe))
+- 📝 release(tado_aa): update changelog [skip-tests] ([`04fe4a40`](https://github.com/FaserF/hassio-addons/commit/04fe4a404dd3ba7728e9a80850bd64b1f7675df9))
+
+### 📝 Documentation
+- improved READMEs ([`083b3025`](https://github.com/FaserF/hassio-addons/commit/083b30254f65656f616671ec8aa6649cbe085b8e))
+
+### 🎨 Style
+- auto-fix (shfmt,black,isort,prettier,markdownlint) ([`e870d4e5`](https://github.com/FaserF/hassio-addons/commit/e870d4e56a174e37a240046f85efebff8ed4ed3e))
+- auto-fix (shfmt,black,isort,prettier,markdownlint) ([`396a11c7`](https://github.com/FaserF/hassio-addons/commit/396a11c76679d079d29134d5d8c0f94bf9446b42))
+- auto-fix (shfmt,black,isort,prettier,markdownlint) ([`bfd1ae67`](https://github.com/FaserF/hassio-addons/commit/bfd1ae6710949be9eeba082897c769a655e02707))
+
+### 🚀 Other
+- more CI fixes ([`ee2d55fe`](https://github.com/FaserF/hassio-addons/commit/ee2d55fe409ee33f9f01450827adeeeafbc54956))
+- more CI & addon fixes ([`9cbf6c0b`](https://github.com/FaserF/hassio-addons/commit/9cbf6c0be6b86bbbb7f673991cc995c5d06c358d))
+- CI fixes ([`c455d4be`](https://github.com/FaserF/hassio-addons/commit/c455d4be27532d8b2734ef087b11d4aedfaba826))
+- fix ShieldFile Start & Addons Version Banner ([`62e9b6c3`](https://github.com/FaserF/hassio-addons/commit/62e9b6c3e86a061bf45302838b8846441098245c))
+- small fixes ([`9e56b831`](https://github.com/FaserF/hassio-addons/commit/9e56b8317d07945c10621348570563212feab56f))
+- general Addon & Test fixes ([`1a9f2ddd`](https://github.com/FaserF/hassio-addons/commit/1a9f2ddd2ec900a5092144c2d99e49088bd3c8f2))
+- New Addon: Wordpress (#539) [skip-tests] ([`4df28386`](https://github.com/FaserF/hassio-addons/commit/4df2838673a3b689f6feda37a8232a2665a410b7))
+- ci fixes ([`cf220dc5`](https://github.com/FaserF/hassio-addons/commit/cf220dc5ea8a883cef79c8b09901bd366c5878e3))
+- fix ci ([`372c4c2c`](https://github.com/FaserF/hassio-addons/commit/372c4c2c8221b70515414846fe578261f63a23ac))
+- small fix ([`4de506d9`](https://github.com/FaserF/hassio-addons/commit/4de506d97842d06151ae7fbb437d62669a70eb48))
+- Small fix [skip-ci] ([`5d5dafdb`](https://github.com/FaserF/hassio-addons/commit/5d5dafdb9fbd76b182107a1cf0085c2d49d3ca15))
+- more CI fixes about version pinning ([`7c611f51`](https://github.com/FaserF/hassio-addons/commit/7c611f519f4b080e59068053c92a4c0d5e6a6f5b))
+
+
 ## 2.1.0 (2026-01-06)
 
 ### 📦 Dependencies

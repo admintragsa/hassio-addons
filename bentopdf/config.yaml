@@ -1,5 +1,5 @@
-name: BentoPDF
-version: 0.1.0
+name: BentoPDF (Edge)
+version: 0.1.1-dev-b9a8c0d
 slug: bentopdf
 description: Self-hosted, privacy-first PDF toolkit
 url: https://github.com/FaserF/hassio-addons/tree/master/bentopdf
@@ -7,7 +7,6 @@ startup: services
 arch:
   - aarch64
   - amd64
-image: ghcr.io/faserf/hassio-addons/bentopdf/{arch}
 init: false
 map:
   - ssl:rw
@@ -20,7 +19,7 @@ schema:
   certfile: str?
   keyfile: str?
 ports:
-  8035/tcp: 8035
+  8035/tcp: 18035
 ports_description:
   8035/tcp: Web Interface (HTTP/HTTPS)
 ingress: true

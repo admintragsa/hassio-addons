@@ -1,5 +1,38 @@
 # Changelog
 
+## 2.1.1-dev-f7f337b (2026-01-06)
+
+### 🐛 Bug Fixes
+- rename README.MD to README.md and prevent run.sh startup crashes ([`4fc77546`](https://github.com/FaserF/hassio-addons/commit/4fc775469d5aec6dd85ac55e71ffff56388b7228))
+
+### 📦 Dependencies
+- 🚀 release(pterodactyl-wings): version bump [skip-tests] ([`f7f337b7`](https://github.com/FaserF/hassio-addons/commit/f7f337b7e7482bd8b6085702f3d175712d8b4039))
+- 📝 release(pterodactyl-wings): update changelog [skip-tests] ([`8e0303cb`](https://github.com/FaserF/hassio-addons/commit/8e0303cb1141c72d31d55d2691d67d8919ceb07c))
+- 📝 release(pterodactyl-wings): update changelog [skip-tests] ([`6c50edce`](https://github.com/FaserF/hassio-addons/commit/6c50edce0bc57eb90c584c862b0605c0af921643))
+- Bump all addon versions ([`7a5426ba`](https://github.com/FaserF/hassio-addons/commit/7a5426bac78e1dbbbf0de477757cbe4562594434))
+
+### 📝 Documentation
+- improved READMEs ([`083b3025`](https://github.com/FaserF/hassio-addons/commit/083b30254f65656f616671ec8aa6649cbe085b8e))
+
+### 🎨 Style
+- auto-fix (shfmt,black,isort,prettier,markdownlint) ([`e870d4e5`](https://github.com/FaserF/hassio-addons/commit/e870d4e56a174e37a240046f85efebff8ed4ed3e))
+- auto-fix (shfmt,black,isort,prettier,markdownlint) ([`396a11c7`](https://github.com/FaserF/hassio-addons/commit/396a11c76679d079d29134d5d8c0f94bf9446b42))
+- auto-fix (shfmt,black,isort,prettier,markdownlint) ([`b74f128e`](https://github.com/FaserF/hassio-addons/commit/b74f128e8f81e47b58067a1a134345be9dcaf894))
+- auto-fix (shfmt,black,isort,prettier,markdownlint) ([`02edd1c1`](https://github.com/FaserF/hassio-addons/commit/02edd1c1dcbea38d1a372aee4b7dab1ad15b4352))
+- auto-fix (shfmt,black,isort,prettier,markdownlint) ([`bfd1ae67`](https://github.com/FaserF/hassio-addons/commit/bfd1ae6710949be9eeba082897c769a655e02707))
+
+### 🚀 Other
+- fixed release ([`02960f1e`](https://github.com/FaserF/hassio-addons/commit/02960f1e6e27cc7a73fce93b6df463ea81bea23a))
+- more CI fixes ([`ee2d55fe`](https://github.com/FaserF/hassio-addons/commit/ee2d55fe409ee33f9f01450827adeeeafbc54956))
+- more CI & addon fixes ([`9cbf6c0b`](https://github.com/FaserF/hassio-addons/commit/9cbf6c0be6b86bbbb7f673991cc995c5d06c358d))
+- CI fixes ([`c455d4be`](https://github.com/FaserF/hassio-addons/commit/c455d4be27532d8b2734ef087b11d4aedfaba826))
+- fix pterodactyl-wings addon start ([`7826c66f`](https://github.com/FaserF/hassio-addons/commit/7826c66f76addaa7e34172bcdad8df254b9d9008))
+- fix ShieldFile Start & Addons Version Banner ([`62e9b6c3`](https://github.com/FaserF/hassio-addons/commit/62e9b6c3e86a061bf45302838b8846441098245c))
+- small fixes ([`9e56b831`](https://github.com/FaserF/hassio-addons/commit/9e56b8317d07945c10621348570563212feab56f))
+- small fix ([`4de506d9`](https://github.com/FaserF/hassio-addons/commit/4de506d97842d06151ae7fbb437d62669a70eb48))
+- more CI fixes ([`032a62cd`](https://github.com/FaserF/hassio-addons/commit/032a62cdaa45ecd61b19ea51897230c4179f3e9f))
+
+
 ## 2.1.0 (2026-01-06)
 
 ### 📦 Dependencies

@@ -51,7 +51,7 @@ RUN mkdir /run/apache2 \
     php84-soap \
     php84-fileinfo \
     php84-xml \
-
+    php84-snmp \
     php84-ctype \
     php84-pdo_sqlite \
     php84-tokenizer \
@@ -63,6 +63,8 @@ RUN mkdir /run/apache2 \
     php84-json \
     php84-imap \
     php84-apcu \
+    net-snmp \
+    net-snmp-tools \
     mosquitto \
     mariadb-client \
     ffmpeg \

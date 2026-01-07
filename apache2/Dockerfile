@@ -66,7 +66,6 @@ RUN mkdir /run/apache2 \
     net-snmp \
     net-snmp-tools \
     mosquitto \
-    mariadb-client \
     ffmpeg \
     cmake make musl-dev gcc gettext-dev libintl libxml2 \
     && curl -L -o musl-locales-master.zip https://gitlab.com/rilian-la-te/musl-locales/-/archive/master/musl-locales-master.zip \
